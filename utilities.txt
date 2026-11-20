@@ -1,0 +1,7 @@
+python 3.11.1
+
+retrieved the libraries versions from the old script from another laptop using:
+py -m pip freeze
+
+then naturally install dependencies:
+py -m pip install -r requirements.txt
